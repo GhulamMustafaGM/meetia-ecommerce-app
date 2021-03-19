@@ -1,5 +1,6 @@
 {
   "name": "meetia-ecommerce-app",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GhulamMustafaGM/meetia-ecommerce-app/issues"
   },
-  "homepage": "https://github.com/GhulamMustafaGM/meetia-ecommerce-app#readme"
+  "homepage": "https://github.com/GhulamMustafaGM/meetia-ecommerce-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
