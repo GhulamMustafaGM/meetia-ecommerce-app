@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/GhulamMustafaGM/meetia-ecommerce-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.18.0",
